@@ -10,10 +10,14 @@ This code package is related to the following scientific article:
 
 ### You can also download this via: [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm), [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs), and [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing)
 
-### How to use these files?
+### How to Use These Files
 
-#### Code_TVT25_Ken.zip: MATLAB source code for the paper.
-#### TeX_TVT25_Ken.zip: LaTeX source files ([Overleaf](https://www.overleaf.com/) compatible).
-#### On-Impact-PEs-PDAs-NF-RISs.pdf: The final paper in PDF format.
-#### Response_TVT25.pdf: The response to reviewers' comments in PDF format.
-#### As an illustration, Fig_Approx_PDA_1019.m and its related scripts generate Fig. 3 of the paper. All other figures can be reproduced using the code provided in Code_TVT25_Ken.zip.
+*   **`Code_TVT25_Ken.zip`**: Contains the MATLAB source code required to reproduce the simulation results.
+*   **`TeX_TVT25_Ken.zip`**: Includes the LaTeX source files, fully compatible with [Overleaf](https://www.overleaf.com/).
+*   **`On-Impact-PEs-PDAs-NF-RISs.pdf`**: The final manuscript in PDF format.
+*   **`Response_TVT25.pdf`**: The detailed response to the reviewers' comments.
+
+---
+
+**Usage Note:**
+As an illustration, `Fig_Approx_PDA_1019.m` and its related scripts generate **Fig. 3** of the paper. All other figures can be reproduced using the code provided in `Code_TVT25_Ken.zip`.
