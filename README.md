@@ -15,7 +15,7 @@ This code package is related to the following scientific article:
 *   **`Code_TVT25_Ken.zip`**: Contains the MATLAB source code required to reproduce the simulation results.
 *   **`TeX_TVT25_Ken.zip`**: Includes the LaTeX source files, fully compatible with [Overleaf](https://www.overleaf.com/).
 *   **`On-Impact-PEs-PDAs-NF-RISs.pdf`**: The final manuscript in PDF format.
-*   **`Response_TVT25.pdf`**: The detailed response to the reviewers' comments.
+*   **`Response_TVT25.pdf`**: The detailed response to the reviewers' comments in PDF format.
 
-**Usage Note:**
+**Usage Note**
 As an illustration, `Fig_Approx_PDA_1019.m` and its related scripts generate **Fig. 3** of the paper. All other figures can be reproduced using the code provided in `Code_TVT25_Ken.zip`.
