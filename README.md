@@ -1,9 +1,7 @@
 # On-Impact-PEs-PDAs-NF-RISs
 
-This is a code package is related to the follow two scientific articles:
+This is a code package is related to the follow scientific article:
 
-1) K. Wang*, C. -T. Lam and B. K. Ng, etal. How Phase Errors Influence Phase-Dependent Amplitudes in Near-Field RISs? In 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall).
+K. Wang*, C. -T. Lam, B. K. Ng, and Yue Liu, "On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs", IEEE Transactions on Vehicular Technology, 2025, doi: 10.1109/TVT.2025.3647594.
 
-2) K. Wang*, C. -T. Lam, B. K. Ng, and Yue Liu, "On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs". Accepted by IEEE TVT.
-
-## The code will be released very soon.
+## Details be released very soon.
