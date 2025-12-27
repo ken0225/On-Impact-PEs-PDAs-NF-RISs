@@ -9,3 +9,10 @@ This code package is related to the following scientific article:
 ### This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above.
 
 ### You can also download this via: [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm), [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs), and [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing)
+
+### How to use these files?
+
+#### Code_TVT25_Ken.zip: MATLAB source code for the paper.
+#### TeX_TVT25_Ken.zip: LaTeX source files ([Overleaf](https://www.overleaf.com/) compatible).
+#### On-Impact-PEs-PDAs-NF-RISs.pdf: The final paper in PDF format.
+#### Response_TVT25.pdf: The response to reviewers' comments.
