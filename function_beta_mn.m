@@ -10,6 +10,8 @@
 % K. Wang, C.-T. Lam, B. K. Ng, and Y. Liu, "On the Impact of Phase Errors in
 % Phase-Dependent Amplitudes of Near-Field RISs," IEEE Transactions on
 % Vehicular Technology, doi: 10.1109/TVT.2025.3647594
+%
+% Link: https://ieeexplore.ieee.org/document/11314716
 
 function beta_mn = function_beta_mn(theta_mn, a, b, c)
 
