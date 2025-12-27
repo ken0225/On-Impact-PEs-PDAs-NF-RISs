@@ -6,7 +6,7 @@ This code package is related to the following scientific article:
 
 ## K. Wang*, C. -T. Lam, B. K. Ng, and Yue Liu, "[On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs](https://ieeexplore.ieee.org/document/11314716)," in IEEE Transactions on Vehicular Technology, 2025, doi: 10.1109/TVT.2025.3647594.
 
-### This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above.
+### _This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above. Furthermore, under this license, downloading and running this code on your computer implies that the code is now yours. Consequently, I will not provide any support or answer questions regarding this code. Additionally, if you use this code in your research papers, you are required to release your own work as open source_
 
 ### You can also download this via: [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm), [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs), and [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing)
 
