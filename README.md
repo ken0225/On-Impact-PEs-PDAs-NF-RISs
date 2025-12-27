@@ -8,8 +8,4 @@ This code package is related to the following scientific article:
 
 ### This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above.
 
-You can also download this via:
-
-### [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm)
-### [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs)
-### [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing
+### You can also download this via: [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm), [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs), and [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing)
