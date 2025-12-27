@@ -6,4 +6,4 @@ K. Wang*, C. -T. Lam, B. K. Ng, and Yue Liu, "On the Impact of Phase Errors in P
 
 You can also download this via https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm
 
-## Details be released very soon.
+## Details will be released very soon.
