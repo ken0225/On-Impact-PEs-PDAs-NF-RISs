@@ -1,12 +1,10 @@
-### _IMPORTANT: If you in any way use the code in this collection for research that results in publications, please CITE the original article. I also recommend that you mention the existence of the code package that you use in your manuscript, to spread the word about its existence and to ensure that you will not be accused of plagiarism by the reviewers of your manuscript._
+### _IMPORTANT: If you use any code in this collection for research that results in a publication, please cite the original article listed above. I also recommend explicitly stating in your manuscript that you used this code package, both to help disseminate it and to avoid any potential concerns about plagiarism during peer review. This code package is licensed under the GPLv2. Under this license, if you download and run the code on your computer, you acknowledge that you assume responsibility for it; therefore, I will not provide support or answer questions about the code. In addition, if your research or publication incorporates this code, you are required to release your related work as open source in accordance with the GPLv2._
 
 # On-Impact-PEs-PDAs-NF-RISs
 
 This code package is related to the following scientific article:
 
 ## K. Wang*, C. -T. Lam, B. K. Ng, and Yue Liu, "[On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs](https://ieeexplore.ieee.org/document/11314716)," in IEEE Transactions on Vehicular Technology, 2025, doi: 10.1109/TVT.2025.3647594.
-
-### _This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above. Furthermore, under this license, downloading and running this code on your computer implies that the code is now yours. Consequently, I will not provide any support or answer questions regarding this code. Additionally, if you use this code in your research papers, you are required to release your own work as open source._
 
 ### You can also download this via: [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm), [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs), and [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing)
 
