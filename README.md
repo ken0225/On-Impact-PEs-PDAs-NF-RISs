@@ -15,4 +15,5 @@ This code package is related to the following scientific article:
 #### Code_TVT25_Ken.zip: MATLAB source code for the paper.
 #### TeX_TVT25_Ken.zip: LaTeX source files ([Overleaf](https://www.overleaf.com/) compatible).
 #### On-Impact-PEs-PDAs-NF-RISs.pdf: The final paper in PDF format.
-#### Response_TVT25.pdf: The response to reviewers' comments.
+#### Response_TVT25.pdf: The response to reviewers' comments in PDF format.
+#### As an illustration, Fig_Approx_PDA_1019.m and its related scripts generate Fig. 3 of the paper. All other figures can be reproduced using the code provided in Code_TVT25_Ken.zip.
