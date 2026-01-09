@@ -8,6 +8,8 @@ This code package is related to the following scientific article:
 
 ### You can also download this via [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm), [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs), and [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing).
 
+### You can also find this paper on arXiv [here](https://arxiv.org/abs/2512.22825).
+
 ### How to use these files?
 
 *   **`Code_TVT25_Ken.zip`**: Contains the MATLAB source code required to reproduce the simulation results.
