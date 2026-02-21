@@ -8,7 +8,7 @@ This code package is related to the following scientific article:
 
 ### You can also download this repertory via [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm), [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs), and [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing).
 
-### This paper can also be found on arXiv [here](https://arxiv.org/abs/2512.22825).
+### Besides, this paper can be found on arXiv [here](https://arxiv.org/abs/2512.22825).
 
 ### How to use these files?
 
