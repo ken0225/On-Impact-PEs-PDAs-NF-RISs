@@ -3,7 +3,7 @@
 % Email: ke.wang@mpu.edu.mo; kewang0225@gmail.com
 % Personal Page: https://kewang.fun
 %
-% License: GNU General Public License v2.0 (GPLv2)
+% License: GNU General Public License v3.0 (GPLv3)
 %
 % Citation:
 % If you use this code in research that leads to publications, please cite:
