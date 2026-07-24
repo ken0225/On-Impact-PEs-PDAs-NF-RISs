@@ -9,7 +9,7 @@ This code package is related to the following scientific article:
 ```
 @article{wang26tvt,
 author={Wang, Ke and Lam, Chan-Tong and Ng, Benjamin K. and Liu, Yue},
-  journal={IEEE Transactions on Vehicular Technology}, 
+  journal={IEEE Trans. Veh. Technol.}, 
   title={On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs}, 
   year={2026},
   volume={75},
