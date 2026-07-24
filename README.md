@@ -6,6 +6,19 @@ This code package is related to the following scientific article:
 
 ## K. Wang*, C. -T. Lam, B. K. Ng, and Yue Liu, "[On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs](https://ieeexplore.ieee.org/document/11314716)," in IEEE Transactions on Vehicular Technology, vol. 75, no. 6, pp. 10826-10842, June 2026.
 
+```
+@article{wang26tvt,
+author={Wang, Ke and Lam, Chan-Tong and Ng, Benjamin K. and Liu, Yue},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs}, 
+  year={2026},
+  volume={75},
+  number={6},
+  pages={10826-10842},
+
+}
+```
+
 ### You can also download this repertory via [Baidu Netdisk](https://pan.baidu.com/s/12stiCV0BPzsbE9PdoA_JpA?pwd=2qpm), [Gitee](https://gitee.com/ken0225/On-Impact-PEs-PDAs-NF-RISs), and [Google Drive](https://drive.google.com/file/d/1vSMLJPYD9Nlr4HDCMDYQQJlTDSm67mOt/view?usp=sharing).
 
 ### Besides, this paper can be found on arXiv [here](https://arxiv.org/abs/2512.22825).
